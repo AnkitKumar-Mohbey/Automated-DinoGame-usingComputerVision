@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.example.com/sticker.png" width="200" height="200">
+  <img src="[https://www.example.com/s](https://www.canva.com/design/DAGBP7UJIXY/l_iH5GZqZe7ided3KXeIUw/watch?utm_content=DAGBP7UJIXY&utm_campaign=designshare&utm_medium=link&utm_source=editor)" width="200" height="200">
 </div>
 
 <h1 align="center">Dinamo Game</h1>
