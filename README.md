@@ -38,13 +38,6 @@ Customize the game logic in game_logic function to fit your gameplay requirement
 #Demo
 <p>Check out the demo video of Dinamo Game:</p>
 
-<p align="center">
-  provided soon
-<!--   <a href="https://www.example.com/demo_video"> -->
-<!--     <img src="https://www.example.com/demo_thumbnail.jpg"> -->
-  </a>
-</p>
-
 #Contributing
 <p>Contributions are welcome! If you'd like to contribute to Dinamo Game, please fork the repository and submit a pull request with your changes.
 </p>
