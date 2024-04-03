@@ -29,23 +29,30 @@ To set up the Dinamo game on your local machine, follow these steps:
    ```bash
    git clone https://github.com/your-username/dinamo-game.git
 
-Usage
+#Usage
+<p>
 Adjust the screen capture parameters in capture_screen_region_opencv_mss function according to your game window's position and dimensions.
 Customize the game logic in game_logic function to fit your gameplay requirements.
-Demo
-Check out the demo video of Dinamo Game:
+</p>
+
+#Demo
+<p>Check out the demo video of Dinamo Game:</p>
 
 <p align="center">
-  <a href="https://www.example.com/demo_video">
-    <img src="https://www.example.com/demo_thumbnail.jpg">
+  provided soon
+<!--   <a href="https://www.example.com/demo_video"> -->
+<!--     <img src="https://www.example.com/demo_thumbnail.jpg"> -->
   </a>
 </p>
 
-Contributions are welcome! If you'd like to contribute to Dinamo Game, please fork the repository and submit a pull request with your changes.
-
-License
+#Contributing
+<p>Contributions are welcome! If you'd like to contribute to Dinamo Game, please fork the repository and submit a pull request with your changes.
+</p>
+#License
+<p>
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
-Thanks to OpenCV and MSS libraries for providing the tools necessary for screen capture and image processing.
+</p>
+#Acknowledgements
+<p>Thanks to OpenCV and MSS libraries for providing the tools necessary for screen capture and image processing.
 This project was inspired by Dinamo Game.
+</p>
