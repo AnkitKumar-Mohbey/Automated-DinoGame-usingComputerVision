@@ -27,7 +27,7 @@ To set up the Dinamo game on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dinamo-game.git
+   git clone https://github.com/AnkitKumar-Mohbey/Automated-DinoGame-usingComputerVision
 
 #Usage
 <p>
