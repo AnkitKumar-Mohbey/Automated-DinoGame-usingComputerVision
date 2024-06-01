@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AnkitKumar-Mohbey/github-header-image.png/blob/main/ddino.jpg" width="400" height="400">
+  <img src="https://github.com/AnkitKumar-Mohbey/github-header-image.png/blob/main/ddino.jpg" width="800" height="400">
 </div>
 
 <h1 align="center">Dinamo Game</h1>
